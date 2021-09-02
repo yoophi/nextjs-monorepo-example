@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-monorepo-example",
+  "private": true,
+  "repository": "git@github.com:yoophi/nextjs-monorepo-example.git",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
+  "license": "MIT"
+}
