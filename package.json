@@ -7,5 +7,6 @@
     "packages/*"
   ],
   "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "yarn@3.1.0-rc.2"
 }
